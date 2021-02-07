@@ -1,0 +1,99 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\graphicspath{ {images/} }
+\usepackage[backend=biber,sorting=none,style=phys,%
+articletitle=false,biblabel=brackets,%
+chaptertitle=false,pageranges=false]{biblatex}
+\addbibresource{thesisbib.bib}
+\usepackage[usenames,dvipsnames,x11names]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows,snakes,shapes}
+\addbibresource{./thesisbib.bib}
+\newcommand{\proton}[1]{%
+	\shade[ball color=red] (#1) circle (.25);
+}
+
+%\neutron{xposition,yposition}
+\newcommand{\neutron}[1]{%
+	\shade[ball color=green] (#1) circle (.25);
+}
+\newcommand{\pion}[1]{%
+	\shade[ball color=blue] (#1) circle (.15);
+}
+
+%\electron{xwidth,ywidth,rotation angle}
+\newcommand{\electron}[3]{%
+	\draw[rotate = #3](0,0) ellipse (#1 and #2)[color=blue];
+	\shade[ball color=Gold2] (0,#2)[rotate=#3] circle (.1);
+}
+\newcommand{\nucleust}{%
+	\neutron{7.2,-1.3}
+	\proton{7,-1}
+	\neutron{7.3,-1.2}
+	\proton{6.8,-1.1}
+	\neutron{6.9,-1.3}
+	\proton{7.2,-1.15}
+	\neutron{6.95,-1.12}
+}
+
+\newcommand{\nucleus}{%
+	\neutron{0.2,0.3}
+	\proton{0,0}
+	\neutron{0.3,0.2}
+	\proton{-0.2,0.1}
+	\neutron{-0.1,0.3}
+	\proton{0.2,-0.15}
+	\neutron{-0.05,-0.12}
+	\proton{0.17,0.21}
+	\neutron{-0.21,0.3}
+	\proton{0.27,0.21}
+	\neutron{0.21,0.3}
+	\proton{0.17,0.31}
+}
+
+
+
+\begin{document}
+\input{chapters/titlepage}
+\tableofcontents
+\chapter*{Abstract}
+The aim of the present work was to assess the model capabilities in describing the proton induced spallation reactions. To understand the reaction mechanism, different sets of observables must be investigated, inclusive as well as exclusive. Based on these criteria, the eforts were done to survey the scientific literature for the selection of representative  data sets which ts the need. The selected data were rich in terms of production of various ejectiles: neutrons, light charged particles (LCP: p, d, t, 3He, 4He), intermediate mass fragments, i.e., the particles with atomic mass number (LCP, IMF , fissionfragments), and target-like heavy residua. Several atomic nuclei from Al up to Pb were selected as representative for all the targets. The proton beam covered the broad range of energies from 180 MeV to 3000 MeV. The spallation reaction was treated as a two stage process. In the rst stage, the incident proton initiates the cascade of binary collisions with target nucleons leaving
+behind an excited remnant. The second stage consists in the decay of this excited remnant nucleus. The selection of best models to describe each of these two stages was done on
+the basis of previous benchmark eforts where INCL4.5 model was found to be the best to describe the first stage of the reaction. Therefore the newest version of this model -
+INCL4.6 was used in the present study. Four theoretical models different in approach  to the reaction mechanism were chosen to realize the description of the second stage: ABLA07, GEMINI++, SMM, GEM2. Qualitative as well as quantitative comparisons of model calculations with experimental data were undertaken. To judge the quality of models the agreement in magnitude of different observables with model predictions as
+well as reproduction of the shape of the mass, angle and energy distributions of the cross sections were taken into account. Various deviation factors were used for providing ranking and validation of the spallation models. The statistical properties of the test factors
+ 
+\chapter*{Dedication}
+To mum and dad
+ 
+\chapter*{Declaration}
+I declare that..
+ 
+\chapter*{Acknowledgements}
+I want to thank...
+ 
+
+\chapter{Introduction}
+\input{chapters/introduction}
+ 
+\chapter{Overview of proton induced reaction models}
+\input{chapters/chapter02}
+ \chapter{The predictive power of spallation models for isotopic cross
+sections and odd-even staggering}
+\input{chapters/chapter03}
+\chapter{Short description of HADES detector}
+\input{chapters/chapter04}
+\chapter{Gas system for HADES forward tracker}
+\input{chapters/chapter05}
+ \chapter{Validation of different models for LCP}
+ \input{chapters/chapter06.tex}
+\chapter{Conclusion}
+\input{chapters/conclusion}
+\printbibliography
+\end{document}
+\appendix
+\chapter{Appendix Title}
+\input{chapters/appendix}

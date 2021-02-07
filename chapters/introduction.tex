@@ -1,0 +1,75 @@
+\section{Spallation reaction}
+	
+	The spallation reaction  is a nuclear reaction in which a target nucleus struck by an incident particle of energy greater than around 50 MeV ejects numerous lighter particles and becomes a product nucleus correspondingly lighter than the original nucleus. \\
+	Nuclear Physics Academic press definition of spallation reaction[ref]: \\
+	\textit{ "A type of nuclear reaction in which the high-energy of incident particles causes the nucleus to eject more than three particle, thus changing both its mass number and its atomic number."}
+	\subsection{Why spallation reaction?}
+	According to the above definition, the spallation reactions lead to a significant modification of the initial nucleus thus various mechanisms of the nuclear processes may contribute.  Understanding of these  processes is  interesting by itself but, moreover, it is  necessary for  numerous scientific and technological applications.The spallation reaction plays very important role in a wide domain of applications which are like neutron sources for material science studies \cite{carpenter1977pulsed}, conversion of nuclear waste into non radioactive substances or short life products\cite{ravn98A} as well as production of short life rare isotopes for medical science studies \cite{bowman1992nuclear} and scientific purposes, \cite{meneguzzi1971production},simulation of detector set-ups in nuclear and particle physics experiments, and radiation protection near accelerators or in space. The simulation tools developed for these domains apply nuclear model codes to compute the production yields and characteristics of all the particles and nuclei generated in these reactions.\par
+	The recent activities in production of Rare Isotope Beams and Spallation Sources led to revival of interest in reliable and predictive simulation of collisions of hadron-nucleus and nucleus-nucleus in the energy range of few hundred MeV to few GeV per particle, to be embedded in transport codes (e.g. MCNPX, GEANT). Owing to the complexity of the quantum-mechanical many-body problems, the processes are often solved approximately.
+
+	\subsection{Need for theoretical models}
+	Such a broad range of applications of the spallation reactions demands the knowledge of the cross sections for production of various nuclides, frequently in interaction of protons with unstable and short living atomic nuclei. In this case it is difficult, time consuming and/or very expensive to obtain experimentally a desirable information. Therefore an existence of a reliable theory of the mechanisms contributing to the spallation reactions is necessary. Unfortunately, the present day status of the nuclear reaction theory does not allow to solve exactly such a multi body nuclear problem. Thus in practice various simplified models of the spallation reactions are proposed.Most of these models assume a two-step mechanism few of them also assume three step mechanism of nuclear reaction.
+
+	\subsection{Types of models}
+	There are various models available for proton induced spallation reaction and also works for other possible projectiles and reactions for example INCL++ [ref], GiBUU[ref], UrQMD[ref], JAM[ref], Bertini[ref], CEM[ref], ISABEL[ref], etc .  Depending on the projectile energy, target mass, and interested  ejectiles the best models can be chosen. Most of them assume a two-step mechanism of the reactions few models are also assume pre-equilibrium process also. 
+	\begin{figure}
+		\centering
+		\begin{tikzpicture}[scale=0.65]
+		\nucleus
+		\proton{-8,0}
+		\electron{1.2}{1.4}{260}
+		\electron{4}{2}{30}
+		\electron{5}{1}{60}
+		\electron{5.5}{1.5}{150}
+		\electron{4.8}{2.25}{80}
+		\proton{7,5}
+		\neutron{7,1.3}
+		\nucleust
+		\pion{7,3}
+		\draw[color=Blue2](0,-5) node {Nucleus};
+		\draw[blue](7.3,3.7) node {Pions};
+		\draw[red](7.5,5.7) node {Proton};
+		\draw[red](-8,1) node {Proton};
+		\draw[green](7.5,2.0) node {Neutron};
+		\draw[color=Purple1](7.5,-2.5) node {Gammas};
+		\draw[color=Purple1](7.5,-3) node {$\gamma$};
+		\draw (7.5,-0.3) node {Residua};
+		\draw [->,color=gray,thick,dashed](-7.8,0) --(0,0); 
+		\draw [->,color=red,dashed](0.5,0) --(6.8,4.8);
+		\draw [->,color=blue,dashed] (0.5,-0.1) --(6.5,2.7) ;
+		\draw [->,color=green,dashed] (0.5,-0.2) -- (6.5,1.2) ;
+		\draw [->,,dashed] (0.5,-0.3) -- (6.5,-1.0) ;
+		\draw [->,color=Purple1,snake=snake,segment amplitude=0.4mm] (0.5,-0.4) --(6.5,-2.9) ;
+		\end{tikzpicture}
+		\caption{Possible particle production in the first stage of the spallation reaction}
+	\end{figure}
+	\begin{itemize}
+		\item The first stage of the reaction consists of an intranuclear cascade (INC) of nucleon-nucleon and nucleon-pion collisions which leads to an abundant emission of nucleons and pions leaving the excited residuum of the target nucleus in a thermodynamical equilibrium.
+		\item In the second stage of the process a de-excitation of the residual excited nucleus appears by emission of nucleons and complex nuclei due to the nuclear evaporation, fission 	and/or fragmentation.
+	\end{itemize}
+	
+	
+	 An advanced representative of such models of the first stage of the spallation reactions is the Li\`ege INC model which in its INCL4.2 version \cite{boudard2002intranuclear} is able to successfully describe the total cross sections as well as the energy spectra and angular distributions of neutrons, protons and pions in the broad range of the proton or deuteron projectile energies (from 50 MeV to 5 GeV). Furthermore, when coupled with the specific model of the de-excitation of heavy residual nuclei, \emph{i.e.}, ABLA \cite{kelic2009abla07} it is able to reproduce experimental yields of heavy, target - like reaction remnants. However, this model - similarly as all other spallation models - meets a problem of the explanation and quantitative description of the non-equilibrium emission of complex light charged particles (LCP), \emph{i.e.},  d, t, $^3$He and $^4$He as well as the intermediate mass fragments (IMF), \emph{i.e.}, particles heavier than $^{4}$He but lighter than products of the fission.
+\section{Questions to be answered}
+After many year of research in this field still many questions are unanswered the few of them are:
+\begin{itemize}
+	\item Which of the models of the second stage of the reaction is the best in reproduction of selected observables (total and isotopic cross sections) -
+	with the assumption that INCL is the best, realistic model of the first stage. On the basis of the literature data.
+	\item The extraction of new experimental DIFFERENTIAL cross sections of the 
+	protons, pions and deuterons with the aim to check whether INCL is able to reproduce well high energy tail of the spectra (what is necessary to claim that INCL is a good model)
+	\item  To check whether other popular models of the 1st stage are equally good as the INCL model in description of these particles (NOTE: protons are the most abundant charged particles and heavier particles probably may be treated as not important in decision whether the main mechanism is reproduced)
+	\item To check how the properties of the residual nuclei after the 1st stage depend on the applied model 
+\end{itemize}
+
+%	\section{Motivation}
+%	It is well known since a long time (cf. \emph{e.g.}, \cite{hyde1971characteristics,korteling1973energy}) that the spallation reactions with emission of LCP and IMF cannot be exclusively described by the emission from the equilibrated remnants of the first stage of the proton-nucleus collisions. Such an emission results in almost isotropic angular distributions whereas it was observed that the spectra of the composite ejectiles are built of two components: the low energy, quasi - isotropic component and the high energy, forward peaked one. Whereas the first component may be attributed to the emission of particles from the equilibrated heavy residuum of the intranuclear cascade the second component is interpreted as the contribution from a non-equilibrium emission of the products. It was found in the papers cited above as well as in many others,\emph{e.g.}\cite{bubak2007non,budzanowski2008competition,budzanowski2009variation,budzanowski2010comparison,fidelus2014sequential,fidelus2017non} that such character of spectra is observed for a broad range of targets (Al, Ni, Ag and Au) as well as for a broad range of the proton beam energies (1.2, 1.9 and 2.5 GeV) and concerns both, LCP and IMF. \par
+%	A significant improvement has been achieved in the quantitative description of the non-equilibrium emission of LCP by the INCL4.3 model \cite{boudard2004new} due to the introduction of the surface coalescence of nucleons escaping from the intranuclear cascade stage. This success suggested that the same method might be, perhaps, extended to non-equilibrium emission of IMF. Therefore, further modifications of the INCL were undertaken \cite{boudard2013new}. The resulting version INCL++ of the INCL model considered emission of dynamically created clusters with the mass number A up to 12. However, it turned ot that the maximal mass number A of considered IMF has to be in practice limited to values not larger than 8 due to a very long computing time. However, it turned out that very long computing time limited in practice the maximal mass number of considered IMF up to A not larger than 8. Moreover, the spectra predicted by the INCL++/INCL4.6 do not reproduce well the shape of the experimental spectra.  Their slope is always significantly smaller than that observed in the experiment \cite{sharma2016ranking} which leads to the overestimation of the cross sections at high energies  of emitted IMF with simultaneous underestimation of them at small energies. It is therefore obvious that the invention of another microscopic model is desirable for realistic and efficient description of the non-equilibrium emission of intermediate mass fragments. To achieve such a goal it is necessary to collect %from experimental investigations as many as possible qualitative and quantitative experimental facts on the non-equilibrium processes underlying the IMF, LCP emission.
+	\section{Organization of thesis}
+	The general objective of this work was to study the mechanisms of pions, proton and nuclear composite particles production in proton-nucleus collisions. The studies were performed partially experimental – utilizing the data of the HADES collaboration and analysing that data to extract the cross-section for p,d,t, and pions, and to some extent theoretical, in the sense that the validation of the existing theoretical models is performed. 
+	Two, qualitatively different investigations were undertaken in the present thesis:
+	\begin{itemize}
+	\item The theoretical analysis of the published in the literature data, which contain total isotopic cross sections for production of nuclei from Li to Ba in p+136Xe reaction at
+	Ep=1 GeV and differential as well as total cross sections available for p+Ag collisions at Ep=0.48 GeV with production of isotopes of Li, Be, ... Mg nuclei. Results of this
+	analysis were partially published \cite{singh2018predictive} and \cite{singh2019odd}.
+	\item The experimental determination of the differential cross section $d\sigma/d\Omega dE$ for emission of Hydrogen isotopes as well as pion $\pi^{+}$ and $\pi^{-} $ from collisions of protons with Nb nuclei at Ep=3.5 GeV (HADES collaboration) and theoretical description of the obtained data.
+\end{itemize}

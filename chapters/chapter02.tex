@@ -1,0 +1,56 @@
+In this chapter various model describing the mechanism of proton induced spallation reaction will be discussed.As it is described in the Introduction that the spallation reaction is a two step process fist fast stage which occures in few fm/c and second stage is slow stage which occurs in 50 fm/c and excited raminant of is got equilibrated in this stage and the Intermidiate mass fragement (IMF A$>$4) and heavy fragment is emmited in this stage of reaction.
+\section{First stage reaction models}
+There are various first stage are available which is developed from many decades of the years.I will try to list and describe few of them. 
+\subsection{Intranuclear cascade models - INC}
+The models which assume, that the interactions of high-energy particles with the nucleus can be represented by free particle-particle collisions inside the nucleus are called intranuclear cascade models. The 1st code of INC has been created by Bertini . In 1963. Later, the conception was used also in other codes, e.g. by Yariv in his ISABEL code. 
+In the 80's and 90's, the next versions of INC model was developed by Cugnon et al.(Now known as INCL++ or INCL 4.6 ).
+In this thesis only INCL was used for validation of different proton induced reaction. The INCL models are very similar to each other that why I will try to describe the INC models with the example of INCL model.
+\subsubsection{Target Nucleus}
+The spatial distribution of nucleons inside the target nucleus is prepared according to a Saxon-Woods formula\\
+\begin{equation}\label{key}
+\rho= \begin{cases} \frac{\rho_{0}}{1+\exp(\frac{R-r_{0}}{a})} &  R<R_{max}\\ 
+0 &  R> R_{max} \end{cases} 
+\end{equation}
+where $R_{max}=r_{int} + R_{0} + a$ and $r_{int}=(\sigma_{NN}^{tot}/\pi)^\frac{1}{2}$
+R$_{0}$ and $a$ are taken from electron scattering measurements and parametrized for Al to U as below
+
+\begin{equation}
+R_{0}=(2.7545*10^{-4}A_{T}+1.063)A_{T}^{1/3}
+\end{equation}
+\begin{equation}
+a=0.510 + 1.63 *10^{-4}A_{T}
+\end{equation}
+The initial position and momentum of any target nucleon are generated as follows:is taken at random in a sphere of radius P$_{F}$\\
+R(p) is calculated by relation 
+\begin{equation}
+\left(\frac{P}{P_{F}}\right)^{3}=-\frac{4\pi}{3A_{T}}\int_{0}^{R(p)}\frac{d\rho(r)}{dr}r^{3}dr.
+\end{equation}
+\subsubsection{Potential}
+Isospin and energy-dependent potential well for the
+Nucleons
+Average potential for pions:  An average isospin dependent Potential well of the Lane type is introduced for pions.
+Deflection of charged particles in the Coulomb field: Once an impact parameter is selected for the incident nucleon, the cascade process is initiated with this nucleon located at the intersection of the “external” Coulomb trajectory (corresponding asymptotically to the specific impact parameter) with the “working sphere”.
+Nucleons move inside the nucleus along straight trajectories until two of them collide or until one nucleon reaches the nucleus surface, where it can be transmitted or reflected.
+Division into participants and spectators.
+\subsubsection{Collisions between nucleons}
+The collision takes place when the distance between two nucleons is smaller than.
+\begin{equation}
+d\leq\sqrt{\sigma_{tot}/\pi}
+\end{equation}
+where $\sigma_{tot}$ is the total nucleon-nucleon cross section
+The following possible reactions are considered:
+$NN\rightarrow NN, \; NN\rightarrow N\Delta, \; N\Delta\rightarrow N\Delta, \; \Delta\Delta\rightarrow \Delta\Delta, \; \pi N\rightarrow \Delta$
+\subsubsection{Pauli Blocking }
+The quantum effectsare not totally neglected, i.e. the Pauli blocking is introduced for occupation of the final states which might be populated due to the collision.
+The light charged particles (LCP) can be emitted as result of Coalescence .
+the stopping time of the cascade is determined self-consistently by the model itself. It parametrized (in fm/c) by:
+\begin{equation}
+t_{stop}=29.8A_{T}^{0.16}
+\end{equation}
+\subsubsection{Cluster Emission}
+An outgoing nucleon arriving at the surface of the “working sphere,” whether or not it has made collisions earlier, is selected as a possible leading nucleon for cluster emission, provided its energy is larger than the threshold energy, otherwise it is reflected.
+Potential clusters are then constructed. The leading nucleon is drawn on its (straight) line of motion back to a radial distance
+$D=R_{0}+h$.
+\subsection{Intranuclear cascade models - QMD}
+\subsection{Boltzmann-Uehling-Uhlenbeck model - BUU}
+\subsection{Cascade-Exciton model - CEM}
