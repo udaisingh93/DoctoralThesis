@@ -1,0 +1,117 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{8}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Spallation reaction}{8}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Why spallation reaction?}{8}{subsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Need for theoretical models}{9}{subsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}Types of models}{9}{subsection.1.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Questions to be answered}{11}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Organization of thesis}{11}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Contemporary theoretical models used for description and interpretation of the experimental data}{13}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}First stage reaction models}{13}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Intranuclear cascade models - INC}{13}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Target Nucleus}{14}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Potential}{14}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Collisions between nucleons}{15}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pauli Blocking }{15}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Cluster Emission}{15}{section*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}quantum molecular dynamic (QMD) Models}{16}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Jet AA Microscopic Transportation Models (JAM) }{16}{subsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Boltzmann-Uehling-Uhlenbeck (BUU) models}{16}{subsection.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.5}Cascade-Exciton model - CEM}{16}{subsection.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Problem of emission of complex particles}{16}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Coalescence}{16}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Models describing the emission from equilibrated remnant}{16}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}GEM}{16}{subsection.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}GEMINI}{16}{subsection.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}SMM}{16}{subsection.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}ABLA}{16}{subsection.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Mechanisms of proton-nuclear target interaction – anisotropic production of pions and H isotopes}{17}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}p+ Nb @ 3.5 GeV measured in HADES@GSI}{17}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Description of experiment}{17}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}RICH}{17}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}MDC}{17}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}TOF/TOFino}{17}{subsection.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Methodology of data analysis}{17}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}issues in data analysis}{17}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Description of analysis}{17}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Establishing of systematic uncertainties}{17}{subsection.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Results for HADES data}{18}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Double-differential cross-sections from p +Nb @3.5 GeV}{18}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Comparison with the models}{18}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Interpretation of results}{18}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Interpretation of pi and LCP production}{18}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Conclusion about predictive power of selected models}{18}{section.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Mechanisms of isotropic emission of IMF and heavy target remnants}{19}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}136Xe + p at 1GeV/A}{19}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}comparison of total isotopic cross section with the models in broad range of Z and A}{19}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}conclusions about the predictive power of the models and range of their usage}{19}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}conclusion about the mechanisms used in individual models}{19}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Further limitations of the models of IMF emission – the odd-even staggering in total production cross sections}{20}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}IMF production cross sections in p + Ag reaction at 480 MeV}{20}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Hybrid (phenomenological+microscopic) approach to describe the double-differential cross sections features of total cross sections – odd-even staggering}{31}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Comparison of models and conclusion about their limitation}{31}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Dependence of non-equilibrium component in the production of IMF on the neutron number excess}{33}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Determination of non-equilibrium cross-section of IMF in p + Ag reaction at 480 MeV}{33}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Dependence of this component on third component of isospin}{33}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Summary}{34}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Validation of total cross-section}{34}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Validation of differential cross-section for IMF and heavy products}{34}{section.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}LCP data analysis and validation of different models}{35}{section.8.3}%

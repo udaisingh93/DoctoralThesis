@@ -1,0 +1,760 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{carpenter1977pulsed}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4c4c1418650642ea5f29ac708e71682e}{%
+           family={Carpenter},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c4c1418650642ea5f29ac708e71682e}
+      \strng{fullhash}{4c4c1418650642ea5f29ac708e71682e}
+      \strng{bibnamehash}{4c4c1418650642ea5f29ac708e71682e}
+      \strng{authorbibnamehash}{4c4c1418650642ea5f29ac708e71682e}
+      \strng{authornamehash}{4c4c1418650642ea5f29ac708e71682e}
+      \strng{authorfullhash}{4c4c1418650642ea5f29ac708e71682e}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0029-554X}
+      \field{journaltitle}{Nuclear Instruments and Methods}
+      \field{number}{1}
+      \field{title}{Pulsed spallation neutron sources for slow neutron scattering}
+      \field{volume}{145}
+      \field{year}{1977}
+      \field{pages}{91\bibrangedash 113}
+      \range{pages}{23}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0029-554X(77)90560-2
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0029554X77905602
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0029554X77905602
+      \endverb
+    \endentry
+    \entry{ravn98A}{article}{}
+      \name{author}{1}{}{%
+        {{hash=32915396a8e86e04a58e913b599703b4}{%
+           family={Ravn},
+           familyi={R\bibinitperiod},
+           given={H.L.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society}%
+      }
+      \strng{namehash}{32915396a8e86e04a58e913b599703b4}
+      \strng{fullhash}{32915396a8e86e04a58e913b599703b4}
+      \strng{bibnamehash}{32915396a8e86e04a58e913b599703b4}
+      \strng{authorbibnamehash}{32915396a8e86e04a58e913b599703b4}
+      \strng{authornamehash}{32915396a8e86e04a58e913b599703b4}
+      \strng{authorfullhash}{32915396a8e86e04a58e913b599703b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{number}{1744}
+      \field{title}{Radioactive ion-beam projects based on the two-accelerator or ISOL principle}
+      \field{volume}{356}
+      \field{year}{1998}
+      \field{pages}{1955\bibrangedash 1984}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1098/rsta.1998.0259
+      \endverb
+    \endentry
+    \entry{bowman1992nuclear}{article}{}
+      \name{author}{22}{}{%
+        {{hash=17fc7e63eea94ae50468384daec1994f}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={C.D.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2cfc96e0037acd8eb122209ee2acb992}{%
+           family={Arthur},
+           familyi={A\bibinitperiod},
+           given={E.D.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0733f1d41f3b7528948d792b83f2d2a0}{%
+           family={Lisowski},
+           familyi={L\bibinitperiod},
+           given={P.W.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8bea35924f7c749843ccdc9c81c4ea35}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={G.P.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2caa7cf89efec21c22e73710384163a7}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a5054cde8467d78acc7f1e34103d0a1e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c194ea4f1e623ac24eb2aaeaca44cb96}{%
+           family={Blind},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=734d3882cefa0a4b1032d5e78d68937e}{%
+           family={Cappiello},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0ec6f3a9afaf0eceb0b226db0aaffe27}{%
+           family={Davidson},
+           familyi={D\bibinitperiod},
+           given={J.W.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=29dd3e35f551957b14426f6bb6e440d1}{%
+           family={England},
+           familyi={E\bibinitperiod},
+           given={T.R.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d2fabf8bfdf26d4dc93507d8352a9001}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={L.N.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d96ad90281a4575716ed873a45c95f4e}{%
+           family={Haight},
+           familyi={H\bibinitperiod},
+           given={R.C.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1f24f2ee45fdbf914b873804dea13160}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={H.G.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=68e488a9eaa444b8dfa01ad022947391}{%
+           family={Ireland},
+           familyi={I\bibinitperiod},
+           given={J.R.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=50d912543f4fb7990fe3f36e74fefa5a}{%
+           family={Krakowski},
+           familyi={K\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c0347927c30278d8e37edfc993082683}{%
+           family={LaBauve},
+           familyi={L\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f4a1511285feae651d9f7d38cc4fe37a}{%
+           family={Letellier},
+           familyi={L\bibinitperiod},
+           given={B.C.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a02ba772944b25fcc8eb2d6e17a167a3}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={R.T.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8f530034adbe9b90318a4ddbdc2dff77}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7b115e2cccd4eaf45b06b1ba56abfb31}{%
+           family={Staudhammer},
+           familyi={S\bibinitperiod},
+           given={K.P.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=81903e387b80b33d355518a77e683692}{%
+           family={Versamis},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=96f0f0a855c069cd7c18408205b7594d}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={W.B.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b29d23785a9a5e63f01d397a3b4c356}
+      \strng{fullhash}{b07e520ee0df71324616eef97a96b267}
+      \strng{bibnamehash}{b07e520ee0df71324616eef97a96b267}
+      \strng{authorbibnamehash}{b07e520ee0df71324616eef97a96b267}
+      \strng{authornamehash}{4b29d23785a9a5e63f01d397a3b4c356}
+      \strng{authorfullhash}{b07e520ee0df71324616eef97a96b267}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0168-9002}
+      \field{journaltitle}{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
+      \field{number}{1}
+      \field{title}{Nuclear energy generation and waste transmutation using an accelerator-driven intense thermal neutron source}
+      \field{volume}{320}
+      \field{year}{1992}
+      \field{pages}{336\bibrangedash 367}
+      \range{pages}{32}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0168-9002(92)90795-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0168900292907956
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0168900292907956
+      \endverb
+    \endentry
+    \entry{meneguzzi1971production}{article}{}
+      \name{author}{3}{}{%
+        {{hash=43db6abcc6fda54384edb6655d8e8316}{%
+           family={Meneguzzi},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12034b4534828e6303a16ddfd41ba0cc}{%
+           family={Audouze},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=36f4820580362a204934217362fe7df9}{%
+           family={Reeves},
+           familyi={R\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{eeed93a0d9063bda69870e092833d221}
+      \strng{fullhash}{5804cfa0d7c19d97c0f31ad31fc77339}
+      \strng{bibnamehash}{5804cfa0d7c19d97c0f31ad31fc77339}
+      \strng{authorbibnamehash}{5804cfa0d7c19d97c0f31ad31fc77339}
+      \strng{authornamehash}{eeed93a0d9063bda69870e092833d221}
+      \strng{authorfullhash}{5804cfa0d7c19d97c0f31ad31fc77339}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy and Astrophysics}
+      \field{title}{The production of the elements Li, Be, B by galactic cosmic rays in space and its relation with stellar observations.}
+      \field{volume}{15}
+      \field{year}{1971}
+      \field{pages}{337\bibrangedash 359}
+      \range{pages}{23}
+      \verb{urlraw}
+      \verb http://adsabs.harvard.edu/pdf/1971A%26A....15..337M
+      \endverb
+      \verb{url}
+      \verb http://adsabs.harvard.edu/pdf/1971A%26A....15..337M
+      \endverb
+    \endentry
+    \entry{boudard2002intranuclear}{article}{}
+      \name{author}{4}{}{%
+        {{hash=53a5ce80259be8f10177b2b09ac65b28}{%
+           family={Boudard},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b9ec4a20983b3ba46e102ff5a8ca620a}{%
+           family={Cugnon},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=07a5fd93dd949f9ed57091356f46f906}{%
+           family={Leray},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=32173af0fda15ef58e5f4eb79bb84154}{%
+           family={Volant},
+           familyi={V\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{85ae6c7054565918a32574d3b29624a0}
+      \strng{fullhash}{46bd83c8157eac2cdbcb16632f2d457b}
+      \strng{bibnamehash}{46bd83c8157eac2cdbcb16632f2d457b}
+      \strng{authorbibnamehash}{46bd83c8157eac2cdbcb16632f2d457b}
+      \strng{authornamehash}{85ae6c7054565918a32574d3b29624a0}
+      \strng{authorfullhash}{46bd83c8157eac2cdbcb16632f2d457b}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev. C}
+      \field{month}{10}
+      \field{title}{Intranuclear cascade model for a comprehensive description of spallation reaction data}
+      \field{volume}{66}
+      \field{year}{2002}
+      \field{pages}{044615}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevC.66.044615
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevC.66.044615
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevC.66.044615
+      \endverb
+    \endentry
+    \entry{kelic2009abla07}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9cb3852be942c066f918568e66b18215}{%
+           family={Kelic},
+           familyi={K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ab577791c9383cb865960a7d7c48b44b}{%
+           family={Ricciardi},
+           familyi={R\bibinitperiod},
+           given={M\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=5a070d3a3c2e22313b247f6a006f0f46}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={K-H},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{3324220903fbedbccc25e3fb3dc661d3}
+      \strng{fullhash}{bf20c2406fbd03feba15f31ad68f63a9}
+      \strng{bibnamehash}{bf20c2406fbd03feba15f31ad68f63a9}
+      \strng{authorbibnamehash}{bf20c2406fbd03feba15f31ad68f63a9}
+      \strng{authornamehash}{3324220903fbedbccc25e3fb3dc661d3}
+      \strng{authorfullhash}{bf20c2406fbd03feba15f31ad68f63a9}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:0906.4193}
+      \field{title}{ABLA07-towards a complete description of the decay channels of a nuclear system from spontaneous fission to multifragmentation}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/0906.4193
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/0906.4193
+      \endverb
+    \endentry
+    \entry{singh2018predictive}{article}{}
+      \name{author}{6}{}{%
+        {{hash=00fd1dfd3d804de194b33469e6e271c2}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Udai},
+           giveni={U\bibinitperiod}}}%
+        {{hash=7bd2a9f3a6461504bdee4f0cc9f1ec04}{%
+           family={Filges},
+           familyi={F\bibinitperiod},
+           given={Detlef},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cec62193ea62b0cd48044e63281d01c9}{%
+           family={Goldenbaum},
+           familyi={G\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3ff51e3380055ef6f18bc8918ec45b08}{%
+           family={Kamys},
+           familyi={K\bibinitperiod},
+           given={Bogus{ł}aw},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2568b772fa88a23cc90694ee596d9ff8}{%
+           family={Rudy},
+           familyi={R\bibinitperiod},
+           given={Zbigniew},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5bb859434d049d913d194475f9ccf27e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Sushil\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{aa432555bd91895e19ed08f51973e690}
+      \strng{fullhash}{0a6ea929f12cdbf8c835a42fc6affeeb}
+      \strng{bibnamehash}{0a6ea929f12cdbf8c835a42fc6affeeb}
+      \strng{authorbibnamehash}{0a6ea929f12cdbf8c835a42fc6affeeb}
+      \strng{authornamehash}{aa432555bd91895e19ed08f51973e690}
+      \strng{authorfullhash}{0a6ea929f12cdbf8c835a42fc6affeeb}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The European Physical Journal A}
+      \field{number}{6}
+      \field{title}{The predictive power of spallation models for isotopic cross sections}
+      \field{volume}{54}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1140/epja/i2018-12546-x
+      \endverb
+    \endentry
+    \entry{singh2019odd}{article}{}
+      \name{author}{4}{}{%
+        {{hash=00fd1dfd3d804de194b33469e6e271c2}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Udai},
+           giveni={U\bibinitperiod}}}%
+        {{hash=3ff51e3380055ef6f18bc8918ec45b08}{%
+           family={Kamys},
+           familyi={K\bibinitperiod},
+           given={Bogus{ł}aw},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1a813684025634dc3a43f9fd882b7899}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Sushil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1e490161cbc0215888bd58cfc658d94e}{%
+           family={Pysz},
+           familyi={P\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa432555bd91895e19ed08f51973e690}
+      \strng{fullhash}{977a732b52171fa49e52dac26c4e779c}
+      \strng{bibnamehash}{977a732b52171fa49e52dac26c4e779c}
+      \strng{authorbibnamehash}{977a732b52171fa49e52dac26c4e779c}
+      \strng{authornamehash}{aa432555bd91895e19ed08f51973e690}
+      \strng{authorfullhash}{977a732b52171fa49e52dac26c4e779c}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Physica Polonica. B}
+      \field{number}{8}
+      \field{title}{Odd--even staggering in the yields of intermediate mass fragments from p+ Ag collisions at EP= 480 MEV}
+      \field{volume}{50}
+      \field{year}{2019}
+      \field{pages}{1451\bibrangedash 14611}
+      \range{pages}{13161}
+      \verb{doi}
+      \verb https://doi.org/10.5506/APhysPolB.50.1451
+      \endverb
+    \endentry
+    \entry{sharma2017ranking}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5bb859434d049d913d194475f9ccf27e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Sushil\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3ff51e3380055ef6f18bc8918ec45b08}{%
+           family={Kamys},
+           familyi={K\bibinitperiod},
+           given={Bogus{ł}aw},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cec62193ea62b0cd48044e63281d01c9}{%
+           family={Goldenbaum},
+           familyi={G\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7bd2a9f3a6461504bdee4f0cc9f1ec04}{%
+           family={Filges},
+           familyi={F\bibinitperiod},
+           given={Detlef},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c6c99107cb4adac2d23b148e22ea95d5}
+      \strng{fullhash}{6b6ce65f594850b25aab0bbcf1a1e64e}
+      \strng{bibnamehash}{6b6ce65f594850b25aab0bbcf1a1e64e}
+      \strng{authorbibnamehash}{6b6ce65f594850b25aab0bbcf1a1e64e}
+      \strng{authornamehash}{c6c99107cb4adac2d23b148e22ea95d5}
+      \strng{authorfullhash}{6b6ce65f594850b25aab0bbcf1a1e64e}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The European Physical Journal A}
+      \field{number}{7}
+      \field{title}{Ranking and validation of spallation models for isotopic production cross sections of heavy residua}
+      \field{volume}{53}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1140/epja/i2017-12334-2
+      \endverb
+    \endentry
+    \entry{sharma2016ranking}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d2d8708e60f7eaa2f8922b7caa7e246c}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=fd2c4e4de67859e13397f15cfc45d288}{%
+           family={Kamys},
+           familyi={K\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=baacc1efb2f867e8d2d120d8a5ea8e64}{%
+           family={Goldenbaum},
+           familyi={G\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=97039f5a7ce0c2144058b59c552ddb9e}{%
+           family={Filges},
+           familyi={F\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9e410acd9a73a8d3d6a5519cd7cbdf7c}
+      \strng{fullhash}{abb067f83920c203fa2f79eae0162905}
+      \strng{bibnamehash}{abb067f83920c203fa2f79eae0162905}
+      \strng{authorbibnamehash}{abb067f83920c203fa2f79eae0162905}
+      \strng{authornamehash}{9e410acd9a73a8d3d6a5519cd7cbdf7c}
+      \strng{authorfullhash}{abb067f83920c203fa2f79eae0162905}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The European Physical Journal A}
+      \field{number}{6}
+      \field{title}{Ranking and validation of the spallation models for description of intermediate mass fragment emission from p+ Ag collisions at 480 MeV incident proton beam energy}
+      \field{volume}{52}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1140/epja/i2016-16171-5
+      \endverb
+    \endentry
+    \entry{CHARITY1988}{article}{}
+      \name{author}{12}{}{%
+        {{hash=f5f7b3ff573d49140eda1fbafb2da9d9}{%
+           family={Charity},
+           familyi={C\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=72c4c4716dfa812e6ff6df65983823af}{%
+           family={McMahan},
+           familyi={M\bibinitperiod},
+           given={M.A.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf1c457dbc2bbd93179337e75554b275}{%
+           family={Wozniak},
+           familyi={W\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7af703d179ced098e3bc32d424a4cc21}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=687e84c8c3ac9f916f9008b209388243}{%
+           family={Moretto},
+           familyi={M\bibinitperiod},
+           given={L.G.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a480bf9ddaada30347fdce8953fc6dc3}{%
+           family={Sarantites},
+           familyi={S\bibinitperiod},
+           given={D.G.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a9c89b35a9d2b8d1c6b9d4f294c8c7e0}{%
+           family={Sobotka},
+           familyi={S\bibinitperiod},
+           given={L.G.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7af41c832a8ed7a21348f114f558b9b1}{%
+           family={Guarino},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f125644c072f36c029a19586ca0e6e67}{%
+           family={Pantaleo},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f3b96ace792297f9ac0c3b0601765433}{%
+           family={Fiore},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0e14a1c7ecb754d58757b546ff1038db}{%
+           family={Gobbi},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2f3e1daa4516d191b5029bdc1c36594e}{%
+           family={Hildenbrand},
+           familyi={H\bibinitperiod},
+           given={K.D.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f7c6abafcbc88fca0f40b070437568f}
+      \strng{fullhash}{544fe08af3ff20a5b04f91d8ef033c08}
+      \strng{bibnamehash}{544fe08af3ff20a5b04f91d8ef033c08}
+      \strng{authorbibnamehash}{544fe08af3ff20a5b04f91d8ef033c08}
+      \strng{authornamehash}{9f7c6abafcbc88fca0f40b070437568f}
+      \strng{authorfullhash}{544fe08af3ff20a5b04f91d8ef033c08}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0375-9474}
+      \field{journaltitle}{Nuclear Physics A}
+      \field{number}{2}
+      \field{title}{Systematics of complex fragment emission in niobium-induced reactions}
+      \field{volume}{483}
+      \field{year}{1988}
+      \field{pages}{371\bibrangedash 405}
+      \range{pages}{35}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0375-9474(88)90542-8
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0375947488905428
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0375947488905428
+      \endverb
+      \keyw{NUCLEAR REACTION}
+    \endentry
+    \entry{Charity2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f5f7b3ff573d49140eda1fbafb2da9d9}{%
+           family={Charity},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{f5f7b3ff573d49140eda1fbafb2da9d9}
+      \strng{fullhash}{f5f7b3ff573d49140eda1fbafb2da9d9}
+      \strng{bibnamehash}{f5f7b3ff573d49140eda1fbafb2da9d9}
+      \strng{authorbibnamehash}{f5f7b3ff573d49140eda1fbafb2da9d9}
+      \strng{authornamehash}{f5f7b3ff573d49140eda1fbafb2da9d9}
+      \strng{authorfullhash}{f5f7b3ff573d49140eda1fbafb2da9d9}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Phys. Rev. C}
+      \field{month}{7}
+      \field{title}{Systematic description of evaporation spectra for light and heavy compound nuclei}
+      \field{volume}{82}
+      \field{year}{2010}
+      \field{pages}{014610}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevC.82.014610
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevC.82.014610
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevC.82.014610
+      \endverb
+    \endentry
+    \entry{boudard2013new}{article}{}
+      \name{author}{5}{}{%
+        {{hash=53a5ce80259be8f10177b2b09ac65b28}{%
+           family={Boudard},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b9ec4a20983b3ba46e102ff5a8ca620a}{%
+           family={Cugnon},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b317e132cd5629027ff58eecf75f0ffd}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={J-C},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=07a5fd93dd949f9ed57091356f46f906}{%
+           family={Leray},
+           familyi={L\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0713efb02fe0ef1ba65a1604dd3b8a6b}{%
+           family={Mancusi},
+           familyi={M\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{85ae6c7054565918a32574d3b29624a0}
+      \strng{fullhash}{b3182a32c15949f867642edbecf33f0a}
+      \strng{bibnamehash}{b3182a32c15949f867642edbecf33f0a}
+      \strng{authorbibnamehash}{b3182a32c15949f867642edbecf33f0a}
+      \strng{authornamehash}{85ae6c7054565918a32574d3b29624a0}
+      \strng{authorfullhash}{b3182a32c15949f867642edbecf33f0a}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review C}
+      \field{number}{1}
+      \field{title}{New potentialities of the Li{è}ge intranuclear cascade model for reactions induced by nucleons and light charged particles}
+      \field{volume}{87}
+      \field{year}{2013}
+      \field{pages}{014606}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1103/PhysRevC.87.014606
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{ABLA07}
+  \missing{Bondorf95A}
+  \missing{Boudard13A}
+  \missing{Bubak07A}
+  \missing{Furihata00A}
+  \missing{Furihata02A}
+  \missing{GEMINI++}
+  \missing{Mancusi14A}
+  \missing{Sharma16A}
+\endrefsection
+\endinput
+
