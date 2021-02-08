@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.4)  8 FEB 2021 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.4)  8 FEB 2021 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -978,63 +978,7 @@ Package biblatex Info: ... file 'main.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                ABLA07
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Bondorf95A
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Boudard13A
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Bubak07A
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Furihata00A
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Furihata02A
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                GEMINI++
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Mancusi14A
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Sharma16A
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1081,13 +1025,7 @@ l.63 ...mberline {3.2.2}MDC}{17}{subsection.3.2.2}
 Chapter 1.
 (./chapters/introduction.tex [8
 
-]
-Overfull \hbox (7.80772pt too wide) in paragraph at lines 14--46
-\OT1/cmr/m/n/12 [ref], GiBUU[ref], UrQMD[ref], JAM[ref], Bertini[ref], CEM[ref]
-, IS-ABEL[ref],
- []
-
-[9] [10]
+] [9] [10]
 Overfull \hbox (8.61604pt too wide) in paragraph at lines 74--75
 []\OT1/cmr/m/n/12 The ex-per-i-men-tal de-ter-mi-na-tion of the dif-fer-en-tial
  cross sec-tion $\OML/cmm/m/it/12 d^^[=d\OT1/cmr/m/n/12 
@@ -1138,13 +1076,13 @@ Package epstopdf Info: Source file: <images/18OGEMINIS2.eps>
 (epstopdf)                    size: 50638 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/18OGEMINIS2-eps-con
 verted-to.pdf images/18OGEMINIS2.eps>
-(epstopdf)             \includegraphics on input line 139.
+(epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<images/18OGEMINIS2-eps-converted-to.pdf, id=449, 571.13374pt x 822.07124pt>
+<images/18OGEMINIS2-eps-converted-to.pdf, id=464, 571.13374pt x 822.07124pt>
 File: images/18OGEMINIS2-eps-converted-to.pdf Graphic file (type pdf)
 <use images/18OGEMINIS2-eps-converted-to.pdf>
 Package pdftex.def Info: images/18OGEMINIS2-eps-converted-to.pdf  used on input
- line 139.
+ line 138.
 (pdftex.def)             Requested size: 571.13235pt x 822.06923pt.
  [22] [23 <./images/18OGEMINIS2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/9BeGEMINIS2S3.eps>
@@ -1156,13 +1094,13 @@ Package epstopdf Info: Source file: <images/9BeGEMINIS2S3.eps>
 (epstopdf)                    size: 66449 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/9BeGEMINIS2S3-eps-c
 onverted-to.pdf images/9BeGEMINIS2S3.eps>
-(epstopdf)             \includegraphics on input line 179.
+(epstopdf)             \includegraphics on input line 178.
 Package epstopdf Info: Output file is already uptodate.
-<images/9BeGEMINIS2S3-eps-converted-to.pdf, id=500, 571.13374pt x 822.07124pt>
+<images/9BeGEMINIS2S3-eps-converted-to.pdf, id=517, 571.13374pt x 822.07124pt>
 File: images/9BeGEMINIS2S3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/9BeGEMINIS2S3-eps-converted-to.pdf>
 Package pdftex.def Info: images/9BeGEMINIS2S3-eps-converted-to.pdf  used on inp
-ut line 179.
+ut line 178.
 (pdftex.def)             Requested size: 571.13235pt x 822.06923pt.
  [24 <./images/9BeGEMINIS2S3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/SGS2S3.eps>
@@ -1173,13 +1111,13 @@ Package epstopdf Info: Source file: <images/SGS2S3.eps>
 (epstopdf)                    size: 35554 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/SGS2S3-eps-converte
 d-to.pdf images/SGS2S3.eps>
-(epstopdf)             \includegraphics on input line 214.
+(epstopdf)             \includegraphics on input line 213.
 Package epstopdf Info: Output file is already uptodate.
-<images/SGS2S3-eps-converted-to.pdf, id=547, 571.13374pt x 822.07124pt>
+<images/SGS2S3-eps-converted-to.pdf, id=564, 571.13374pt x 822.07124pt>
 File: images/SGS2S3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/SGS2S3-eps-converted-to.pdf>
 Package pdftex.def Info: images/SGS2S3-eps-converted-to.pdf  used on input line
- 214.
+ 213.
 (pdftex.def)             Requested size: 571.13235pt x 822.06923pt.
 Package epstopdf Info: Source file: <images/RNEQtoTOTtot.eps>
 (epstopdf)                    date: 2021-02-08 15:25:36
@@ -1189,13 +1127,13 @@ Package epstopdf Info: Source file: <images/RNEQtoTOTtot.eps>
 (epstopdf)                    size: 21162 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/RNEQtoTOTtot-eps-co
 nverted-to.pdf images/RNEQtoTOTtot.eps>
-(epstopdf)             \includegraphics on input line 246.
+(epstopdf)             \includegraphics on input line 245.
 Package epstopdf Info: Output file is already uptodate.
-<images/RNEQtoTOTtot-eps-converted-to.pdf, id=549, 822.07124pt x 571.13374pt>
+<images/RNEQtoTOTtot-eps-converted-to.pdf, id=566, 822.07124pt x 571.13374pt>
 File: images/RNEQtoTOTtot-eps-converted-to.pdf Graphic file (type pdf)
 <use images/RNEQtoTOTtot-eps-converted-to.pdf>
 Package pdftex.def Info: images/RNEQtoTOTtot-eps-converted-to.pdf  used on inpu
-t line 246.
+t line 245.
 (pdftex.def)             Requested size: 822.06923pt x 571.13235pt.
  [25] [26 <./images/SGS2S3-eps-converted-to.pdf>] [27 <./images/RNEQtoTOTtot-ep
 s-converted-to.pdf>]
@@ -1207,13 +1145,13 @@ Package epstopdf Info: Source file: <images/R4eoT3.eps>
 (epstopdf)                    size: 30993 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/R4eoT3-eps-converte
 d-to.pdf images/R4eoT3.eps>
-(epstopdf)             \includegraphics on input line 339.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
-<images/R4eoT3-eps-converted-to.pdf, id=635, 822.07124pt x 571.13374pt>
+<images/R4eoT3-eps-converted-to.pdf, id=652, 822.07124pt x 571.13374pt>
 File: images/R4eoT3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/R4eoT3-eps-converted-to.pdf>
 Package pdftex.def Info: images/R4eoT3-eps-converted-to.pdf  used on input line
- 339.
+ 338.
 (pdftex.def)             Requested size: 822.06923pt x 571.13235pt.
 Package epstopdf Info: Source file: <images/S23vsAT3.eps>
 (epstopdf)                    date: 2021-02-08 15:25:36
@@ -1223,13 +1161,13 @@ Package epstopdf Info: Source file: <images/S23vsAT3.eps>
 (epstopdf)                    size: 26228 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/S23vsAT3-eps-conver
 ted-to.pdf images/S23vsAT3.eps>
-(epstopdf)             \includegraphics on input line 368.
+(epstopdf)             \includegraphics on input line 367.
 Package epstopdf Info: Output file is already uptodate.
-<images/S23vsAT3-eps-converted-to.pdf, id=637, 822.07124pt x 571.13374pt>
+<images/S23vsAT3-eps-converted-to.pdf, id=654, 822.07124pt x 571.13374pt>
 File: images/S23vsAT3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/S23vsAT3-eps-converted-to.pdf>
 Package pdftex.def Info: images/S23vsAT3-eps-converted-to.pdf  used on input li
-ne 368.
+ne 367.
 (pdftex.def)             Requested size: 822.06923pt x 571.13235pt.
 Package epstopdf Info: Source file: <images/TOTG23T3.eps>
 (epstopdf)                    date: 2021-02-08 15:25:36
@@ -1239,13 +1177,13 @@ Package epstopdf Info: Source file: <images/TOTG23T3.eps>
 (epstopdf)                    size: 25505 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/TOTG23T3-eps-conver
 ted-to.pdf images/TOTG23T3.eps>
-(epstopdf)             \includegraphics on input line 387.
+(epstopdf)             \includegraphics on input line 386.
 Package epstopdf Info: Output file is already uptodate.
-<images/TOTG23T3-eps-converted-to.pdf, id=638, 822.07124pt x 571.13374pt>
+<images/TOTG23T3-eps-converted-to.pdf, id=655, 822.07124pt x 571.13374pt>
 File: images/TOTG23T3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/TOTG23T3-eps-converted-to.pdf>
 Package pdftex.def Info: images/TOTG23T3-eps-converted-to.pdf  used on input li
-ne 387.
+ne 386.
 (pdftex.def)             Requested size: 822.06923pt x 571.13235pt.
 Package epstopdf Info: Source file: <images/GEMseparateT3.eps>
 (epstopdf)                    date: 2021-02-08 15:25:36
@@ -1256,21 +1194,21 @@ Package epstopdf Info: Source file: <images/GEMseparateT3.eps>
 (epstopdf)                    size: 27429 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/GEMseparateT3-eps-c
 onverted-to.pdf images/GEMseparateT3.eps>
-(epstopdf)             \includegraphics on input line 413.
+(epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
-<images/GEMseparateT3-eps-converted-to.pdf, id=641, 822.07124pt x 571.13374pt>
+<images/GEMseparateT3-eps-converted-to.pdf, id=658, 822.07124pt x 571.13374pt>
 File: images/GEMseparateT3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/GEMseparateT3-eps-converted-to.pdf>
 Package pdftex.def Info: images/GEMseparateT3-eps-converted-to.pdf  used on inp
-ut line 413.
+ut line 412.
 (pdftex.def)             Requested size: 822.06923pt x 571.13235pt.
 
-Overfull \hbox (16.81772pt too wide) in paragraph at lines 429--429
+Overfull \hbox (16.81772pt too wide) in paragraph at lines 428--428
 \OT1/cmr/bx/n/17.28 ap-proach to de-scribe the double-differential
  []
 
 
-Overfull \hbox (19.98373pt too wide) in paragraph at lines 430--430
+Overfull \hbox (19.98373pt too wide) in paragraph at lines 429--429
 []\OT1/cmr/bx/n/17.28 Comparison of mod-els and con-clu-sion about
  []
 
@@ -1299,7 +1237,13 @@ print arXiv:0906.4193
 
 [36
 
-] [37]
+]
+Overfull \hbox (2.13142pt too wide) in paragraph at lines 100--100
+[]\OT1/cmr/m/n/12 J. Bon-dorf, A. Botv-ina, A. Ilji-nov, I. Mishus-tin, and K. 
+Snep-pen, []Physics
+ []
+
+[37]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
  (./main.aux)
@@ -1313,13 +1257,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 26998 strings out of 483140
- 551523 string characters out of 5965152
- 1207742 words of memory out of 5000000
- 41399 multiletter control sequences out of 15000+600000
+ 27018 strings out of 483140
+ 552233 string characters out of 5965152
+ 1207820 words of memory out of 5000000
+ 41414 multiletter control sequences out of 15000+600000
  538556 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 60i,9n,76p,1719b,1302s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,76p,1719b,1303s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/udaisingh/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200
 .600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
@@ -1333,10 +1277,10 @@ ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (38 pages, 599087 bytes).
+Output written on main.pdf (38 pages, 600700 bytes).
 PDF statistics:
- 925 PDF objects out of 1000 (max. 8388607)
- 644 compressed objects within 7 object streams
- 130 named destinations out of 1000 (max. 500000)
+ 952 PDF objects out of 1000 (max. 8388607)
+ 671 compressed objects within 7 object streams
+ 135 named destinations out of 1000 (max. 500000)
  506 words of extra memory for PDF output out of 10000 (max. 10000000)
 

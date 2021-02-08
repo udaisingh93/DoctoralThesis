@@ -269,6 +269,70 @@
       \verb http://adsabs.harvard.edu/pdf/1971A%26A....15..337M
       \endverb
     \endentry
+    \entry{Mancusi2014}{article}{}
+      \name{author}{6}{}{%
+        {{hash=378195a499ad988c6d9901addb0ecec4}{%
+           family={Mancusi},
+           familyi={M\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a5b40527ea8cf1784e00fc5b45b1a444}{%
+           family={Boudard},
+           familyi={B\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0738f546739daf2efb62ed5ae42e6b80}{%
+           family={Cugnon},
+           familyi={C\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ffe3fa198ec1478c4d7be60a3a888cf5}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Jean-Christophe},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=3c885ad2fc4c9c4489424e879475a448}{%
+           family={Kaitaniemi},
+           familyi={K\bibinitperiod},
+           given={Pekka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5a39e562fd9c743779679aeb9c184a91}{%
+           family={Leray},
+           familyi={L\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{63f7362d041fefeb9a260b73d3dc7ae2}
+      \strng{fullhash}{b5849a6f20d03fc7c430d6620307e648}
+      \strng{bibnamehash}{b5849a6f20d03fc7c430d6620307e648}
+      \strng{authorbibnamehash}{b5849a6f20d03fc7c430d6620307e648}
+      \strng{authornamehash}{63f7362d041fefeb9a260b73d3dc7ae2}
+      \strng{authorfullhash}{b5849a6f20d03fc7c430d6620307e648}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Phys. Rev. C}
+      \field{month}{11}
+      \field{title}{Extension of the Liège intranuclear-cascade model to reactions induced by light nuclei}
+      \field{volume}{90}
+      \field{year}{2014}
+      \field{pages}{054602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevC.90.054602
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevC.90.054602
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevC.90.054602
+      \endverb
+    \endentry
     \entry{boudard2002intranuclear}{article}{}
       \name{author}{4}{}{%
         {{hash=53a5ce80259be8f10177b2b09ac65b28}{%
@@ -302,8 +366,8 @@
       \strng{authornamehash}{85ae6c7054565918a32574d3b29624a0}
       \strng{authorfullhash}{46bd83c8157eac2cdbcb16632f2d457b}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{4}
@@ -348,8 +412,8 @@
       \strng{authorbibnamehash}{bf20c2406fbd03feba15f31ad68f63a9}
       \strng{authornamehash}{3324220903fbedbccc25e3fb3dc661d3}
       \strng{authorfullhash}{bf20c2406fbd03feba15f31ad68f63a9}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:0906.4193}
@@ -405,8 +469,8 @@
       \strng{authornamehash}{aa432555bd91895e19ed08f51973e690}
       \strng{authorfullhash}{0a6ea929f12cdbf8c835a42fc6affeeb}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The European Physical Journal A}
@@ -450,8 +514,8 @@
       \strng{authornamehash}{aa432555bd91895e19ed08f51973e690}
       \strng{authorfullhash}{977a732b52171fa49e52dac26c4e779c}
       \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Physica Polonica. B}
@@ -745,16 +809,218 @@
       \verb https://doi.org/10.1103/PhysRevC.87.014606
       \endverb
     \endentry
+    \entry{SMMBondorf1995}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5c9efc2ea85d733e33d7851be0eeb701}{%
+           family={Bondorf},
+           familyi={B\bibinitperiod},
+           given={J.P.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=552d21fc2c5557d5736659ced42cf53e}{%
+           family={Botvina},
+           familyi={B\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=541e631c086c79b6d39aaf585f57b9af}{%
+           family={Iljinov},
+           familyi={I\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7badb65a123908d7ce9bcaed7c8c1860}{%
+           family={Mishustin},
+           familyi={M\bibinitperiod},
+           given={I.N.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f16108b41dcf076c5ced4ec39037bee9}{%
+           family={Sneppen},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dde7952a053b327b7c4f20917c68576}
+      \strng{fullhash}{1d8317694ec0d7d30f8541b5609f25d1}
+      \strng{bibnamehash}{1d8317694ec0d7d30f8541b5609f25d1}
+      \strng{authorbibnamehash}{1d8317694ec0d7d30f8541b5609f25d1}
+      \strng{authornamehash}{1dde7952a053b327b7c4f20917c68576}
+      \strng{authorfullhash}{1d8317694ec0d7d30f8541b5609f25d1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This review is devoted to the Statistical Multifragmentation Model (SMFM) developed in Copenhagen more than 10 years ago and widely used now for interpreting experimental data on multiple fragment production in different nuclear reactions. The model is based on the assumption of simultaneous break-up of a thermalized nuclear system. Basic principles and different realizations of the statistical approach to the nuclear multifragmentation are described in detail. Special emphasis is put on the implementation of specific nuclear features such as finite size effects, internal excitation of fragments, their strong and Coulomb interaction. Hot primary fragments are treated within the liquid-drop approximation. An efficient Monte Carlo method is proposed for generating microcanonical ensembles of break-up channels. Deexcitation of hot fragments via evaporation and Fermi break-up is also included in the numerical code. The evolution of nuclear disintegration mechanisms with increasing excitation energy, from compound nucleus to multifragmentation and vaporization, follows naturally from the model. Observable signals of multifragmentation are discussed and numerous applications of the model for analyzing experimental data are demonstrated. In particular, hybrid models, combining dynamical simulations of non-equilibrium stages of the reaction with statistical break-up of thermalized intermediate systems, are described. The “backtracing” method of reconstructing parameters of decaying sources from experimental data is also presented.}
+      \field{issn}{0370-1573}
+      \field{journaltitle}{Physics Reports}
+      \field{number}{3}
+      \field{title}{Statistical multifragmentation of nuclei}
+      \field{volume}{257}
+      \field{year}{1995}
+      \field{pages}{133\bibrangedash 221}
+      \range{pages}{89}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0370-1573(94)00097-M
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/037015739400097M
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/037015739400097M
+      \endverb
+    \endentry
+    \entry{FURIHATA2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e78203354fca01988a481315991f0c8}{%
+           family={Furihata},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e78203354fca01988a481315991f0c8}
+      \strng{fullhash}{1e78203354fca01988a481315991f0c8}
+      \strng{bibnamehash}{1e78203354fca01988a481315991f0c8}
+      \strng{authorbibnamehash}{1e78203354fca01988a481315991f0c8}
+      \strng{authornamehash}{1e78203354fca01988a481315991f0c8}
+      \strng{authorfullhash}{1e78203354fca01988a481315991f0c8}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0168-583X}
+      \field{journaltitle}{Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms}
+      \field{number}{3}
+      \field{title}{Statistical analysis of light fragment production from medium energy proton-induced reactions}
+      \field{volume}{171}
+      \field{year}{2000}
+      \field{pages}{251\bibrangedash 258}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0168-583X(00)00332-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168583X00003323
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0168583X00003323
+      \endverb
+      \keyw{Evaporation model,Production cross-section,Monte Carlo simulation,Excitation function,Light fragment production}
+    \endentry
+    \entry{Furihata2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=584baa96ff551cb97a54f38dc56eec78}{%
+           family={Furihata},
+           familyi={F\bibinitperiod},
+           given={Shiori},
+           giveni={S\bibinitperiod}}}%
+        {{hash=676b4f56aef10be1cebd131ae7fbd9cb}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{0f797f305c96c437c2cb242ce5e02337}
+      \strng{fullhash}{0f797f305c96c437c2cb242ce5e02337}
+      \strng{bibnamehash}{0f797f305c96c437c2cb242ce5e02337}
+      \strng{authorbibnamehash}{0f797f305c96c437c2cb242ce5e02337}
+      \strng{authornamehash}{0f797f305c96c437c2cb242ce5e02337}
+      \strng{authorfullhash}{0f797f305c96c437c2cb242ce5e02337}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Nuclear Science and Technology}
+      \field{number}{sup2}
+      \field{title}{Calculation of Nuclide Productions from Proton Induced Reactions on Heavy Targets with INC/GEM}
+      \field{volume}{39}
+      \field{year}{2002}
+      \field{pages}{758\bibrangedash 761}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1080/00223131.2002.10875208
+      \endverb
+    \endentry
+    \entry{bubak2007non}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=a9efd0646f4893a6966c1546821f2a93}{%
+           family={Bubak},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5ab4450f3452db3d6d1879e2b99a0d8e}{%
+           family={Budzanowski},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=97039f5a7ce0c2144058b59c552ddb9e}{%
+           family={Filges},
+           familyi={F\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=baacc1efb2f867e8d2d120d8a5ea8e64}{%
+           family={Goldenbaum},
+           familyi={G\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d6f6de118f38e718c4c3918b0c626a7d}{%
+           family={Heczko},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=04aa4a483f1f6eec97318606d887f551}{%
+           family={Hodde},
+           familyi={H\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=aa706f2b6dc1bf1fde3fc98c53975a27}{%
+           family={Jarczyk},
+           familyi={J\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fd2c4e4de67859e13397f15cfc45d288}{%
+           family={Kamys},
+           familyi={K\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=597b2db0142d6a8e1dc0b22c45c17772}{%
+           family={Kistryn},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=de309dbb3c4a52592fa30fd309cb3584}{%
+           family={Kowalczyk},
+           familyi={K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{f16c81f9dfd2a56fa174dd4c4aededb6}
+      \strng{fullhash}{31b223263cd34c9aca9eb7ec8cc180fe}
+      \strng{bibnamehash}{31b223263cd34c9aca9eb7ec8cc180fe}
+      \strng{authorbibnamehash}{31b223263cd34c9aca9eb7ec8cc180fe}
+      \strng{authornamehash}{f16c81f9dfd2a56fa174dd4c4aededb6}
+      \strng{authorfullhash}{31b223263cd34c9aca9eb7ec8cc180fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review C}
+      \field{number}{1}
+      \field{title}{Non-equilibrium emission of complex fragments from p+ Au collisions at 2.5 GeV proton beam energy}
+      \field{volume}{76}
+      \field{year}{2007}
+      \field{pages}{014618}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1103/PhysRevC.76.014618
+      \endverb
+    \endentry
   \enddatalist
-  \missing{ABLA07}
-  \missing{Bondorf95A}
-  \missing{Boudard13A}
-  \missing{Bubak07A}
-  \missing{Furihata00A}
-  \missing{Furihata02A}
   \missing{GEMINI++}
-  \missing{Mancusi14A}
-  \missing{Sharma16A}
 \endrefsection
 \endinput
 
