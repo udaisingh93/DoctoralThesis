@@ -1,9 +1,47 @@
 \section{p+ Nb @ 3.5 GeV measured in HADES@GSI}
+The HADES detection system described in more details in the next chapter permits for registration in broad energy range and clear identification of particles of the interest of this project, namely the π+, π-, p, d, t, 3He, and 4He. Fig. 2 shows the general identification plot of particle species of HADES. Taking advantage of the high resolving power of PID in HADES the main issue will be the proper background estimation and the absolute normalization, taking into account the detection acceptance, efficiency and trigger conditions. For the absolute normalization of measured cross sections, it is planned to utilize the experimental cross section for π- production measured at similar conditions, e.g. in HARP experiment [40-43].  
 \section{Description of experiment}
 \subsection{RICH}
 \subsection{MDC}
 \subsection{TOF/TOFino}
 \section{Methodology of data analysis}
+In order to create the (d2σ/dΩdE) and the (d2σ/dΩ1dΩ2) cross sections the data collected in p+Nb reaction at 3.5 GeV bombarding energy will be used.  The detection system of the HADES experiment is shown in Fig. 3. 
+The toroidal magnetic field of HADES system for the momentum measurement together with the precise tracking of 4 layer Mini Drift Chambers (MDC) and particle identification (PID) based on dE/dx information from MDC, TOF and TOFino scintillators will allow to create the double-differential cross sections distributions (d2σ/dΩdE) for LPCs and for pions for emission angles between 18O and 85O. The energy range will cover their almost whole kinematic range. It means that the energy distributions of protons will range from about 50 MeV until about 2.6 GeV (cf. Fig. 2 and 3). It has to be stressed here again that in dedicated experiments oriented for spallation physics [4-9] the particle detection and identification were possible only for energies lower than ~200 MeV cf. Fig. 1 and [3].    
+\begin{figure}
+  % Requires \usepackage{graphicx}
+  \centering\
+  \includegraphics{cuts}
+  \caption{The scatter plot of dE/dx (MDC) vs. momentum for protons. The cut obtained from 
+the asymmetric Gaussian fits is shown. The theoretical calculation of energy loss according to Bethe-Bloch formula is shown as well with the red line.}
+  \label{fig:18OGEMINIS2}
+\end{figure}
+Pion and Light Charged Particle identification in HADES experiment 
+
+For PID in HADES experiment the information from Time of Flight, the dE/dx in MDC detector and dE/dx in TOF and TOFino detectors are used. However, in a few data sets the information on Time of Flight is not available due to hardware constraints. But even in this case, the time of flight can be reconstructed with the use of information from TOF and TOFino detectors (which are the STOP detectors for the time of Flight measurement) and reconstructed track of fast particles like π-.  Such a reference particle has to be detected together with other reaction products what impose the specific the trigger condition, unfavorable measurement of the absolute cross section for single particles. Thus, for creation of a double differential cross section of LCP and pions, the PID of these particles is restricted only to information gained from dE/dx measurements. Nevertheless, the reconstructed Time of Flight of reaction products can be used for rough particle selection with the mass vs. momentum cuts as it is shown in Fig. 5.
+In order to obtain the single spectra of LCP and pions the combination of identification methods is done in the following way:
+\begin{figure}
+  % Requires \usepackage{graphicx}
+  \centering\
+  \includegraphics{cuts2}
+  \caption{The scatter plot of dE/dx(TOFino) vs. momentum (upper panel) and dE/dx(TOF) vs. momentum (lower panel) for proton showing the cuts selecting the protons.}
+  \label{fig:18OGEMINIS2}
+\end{figure}
+1. The mass-momentum distribution is used to define the rough selection cuts for proton, deuteron, triton and pions (cf. Fig. 5).
+
+ 
+ 
+Fig. 5. The scatter plot of momentum vs. mass for mesons and LPC registered and identified with the HADES detection system.
+ 
+
+2. For the selected particles the dE/dx (MDC) vs. momentum plots are done (cf. Example in fig. 6).
+
+3. The projection of dE/dx (MDC) distributions in momentum slices of 25 MeV/c is done. The asymmetric Gaussian fit is applied to each particular distribution in order to define the cuts. The cuts are fixed at (mean 1.5 sigmas) of the fitted functions.
+
+4. Using both the MDC dE/dx (MDC) cut and mass cuts the dE/dx (TOF) and dE/dx (TOFino) vs. momentum are done. The procedure of fitting of the asymmetric Gaussian distribution to the 25 MeV/c momentum slices is applied again.
+
+5. After the final cuts are defined, they are applied to the data set where the mass cut is not used.
+
+
 \subsection{issues in data analysis}
 \subsection{Description of analysis}
 \subsection{Establishing of systematic uncertainties}
